@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fhsch
 - 👀 I’m interested in learning and teaching languages, traveling, hiking, programming, and gaming.  
-- 🌱 I’m currently learning Java and Python.
-- 💞️ I’m looking to collaborate on nothin yet since I'm still learning.
+- 🌱 I’m currently learning Java and Webprogramming with HTML, CSS, JavaScript, and Python.
+- 💞️ I’m looking to collaborate on nothing yet since I'm still learning.
 - 📫 How to reach me: by dm.
 
 <!---
