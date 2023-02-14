@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @fhsch
-- 👀 I’m interested in learning and teaching languages, traveling, hiking, programming, and gaming.  
-- 🌱 I’m currently learning Java and Webprogramming with HTML, CSS, JavaScript, and Python.
-- 💞️ I’m looking to collaborate on nothing yet since I'm still learning.
-- 📫 How to reach me: by dm.
+- 👋 Hi, I’m @fhsch and I should edit this page at some point.
 
 <!---
 fhsch/fhsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
